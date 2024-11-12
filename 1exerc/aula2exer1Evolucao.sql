@@ -1,0 +1,1 @@
+CREATE DATABASE aula2exer1;
